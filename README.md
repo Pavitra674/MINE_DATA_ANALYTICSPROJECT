@@ -1,4 +1,4 @@
-# MINE_DATA_ANALYTICSPROJECT
+# MINE_DATA_ANALYTICS PROJECT
 
 My work aims to develop a multivariate regression model that can accurately predict coal 
 production in the United States based on publicly available production data. The model 
